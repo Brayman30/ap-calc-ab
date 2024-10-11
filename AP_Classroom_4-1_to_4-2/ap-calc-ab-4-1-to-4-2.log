@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  10 OCT 2024 23:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  11 OCT 2024 00:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -643,7 +643,7 @@ Package rerunfilecheck Info: File `ap-calc-ab-4-1-to-4-2.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13154 strings out of 473899
- 213178 string characters out of 5725555
+ 213346 string characters out of 5725555
  694732 words of memory out of 5000000
  35819 multiletter control sequences out of 15000+600000
  568138 words of font info for 75 fonts, out of 8000000 for 9000
