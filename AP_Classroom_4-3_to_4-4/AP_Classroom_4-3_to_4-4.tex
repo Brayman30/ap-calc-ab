@@ -63,7 +63,7 @@ tocentrypagenumberbox=\mbox
 		
 		%Q1
 		\question
-		%BEGIN_FOLD
+			%BEGIN_FOLD
 			\begin{tabular}{l||l|l|l|l}
 			 $x$ &  $f(x)$ &  $f^{\prime}(x)$ &  $g(x)$ & $g^{\prime}(x)$ \\ \hline \hline
 			 1 &  6    &  4     &  2    & 5     \\
@@ -89,7 +89,9 @@ tocentrypagenumberbox=\mbox
 			\end{solution}
 		%END_FOLD
 		
+		%Q2
 		\question A student attempted to confirm that the function $f$ defined by $f(x) = \frac{ x^2 + x - 6}{x^2 -7x + 10}$ is continuous at $x = 2$
+			%BEGIN_FOLD
 		In which step, if any, does an error first appear?
 			\begin{enumerate}
 					\item [Step 1:] $$f(x) = \frac {x^2 + x - 6} {x^2 - 7x + 10} = \frac { (x-2) (x+3) } { (x-2) (x-5) }$$
@@ -101,7 +103,9 @@ tocentrypagenumberbox=\mbox
 				During Step 3, we made a little bit of a mistake. While in the limit in Step 2, we can simplify the rational definition of $f(x)$, when finding the actual value (or lack thereof) of $f(2)$, we \textbf{\emph{cannot}} do this. \\
 				Even though $f$ is actually undefined at $x=2$ (removable discontinuity / hole), we incorrectly said it was equal to $\frac{-5}{3}$, and therefore incorrectly stated $f$ as continuous at $x=2$. 
 			\end{solution}
-			
+		%END_FOLD
+		
+		%Q3
 		\question Two particles move along the $x$-axis with velocities given by $v_1(t) = -3t^2 + 8t +5$ and $v_2(t) = \sin t$ for time $t \geq 0$. At what time $t$ do the two particles have equal acceleration?
 			\begin{solution}
 				To find acceleration from give velocity equations, we must take the derivative of the velocity functions to find two new acceleration equations
