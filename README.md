@@ -4,7 +4,7 @@ All notes are made using LaTeX under TeX Studio with MiKTeX, but pre-complied PD
 I might make a nice site for links to the PDFs at some point if I get around to it.
 
 
-Provided free for use under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) or Later.
+Provided free for use and modification under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) or Later.
 © Copyright Brayden Price 2024
 
 This file is part of Brayden's AP Calculus AB Notes.
