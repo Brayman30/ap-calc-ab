@@ -1,0 +1,78 @@
+\documentclass[12pt,letterpaper, onecolumn]{exam}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{nicefrac}
+\usepackage{graphicx}
+\usepackage{tocbasic}
+\usepackage{hyperref}
+
+\usepackage{xcolor}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,      
+	urlcolor=cyan,
+}
+
+\usepackage[lmargin=71pt, tmargin=1.2in]{geometry}  %For centering solution box
+\lhead{AP Calculus AB -- APC 4.1 -- 4.2 Assignment\\}
+\rhead{Brayden Price\\}
+% \chead{\hline} % Un-comment to draw line below header
+\thispagestyle{empty}   %For removing header/footer from page 1
+\newcommand\at[2]{\left.#1\right|_{#2}}
+
+
+\DeclareNewTOC[%
+type=exercise,%
+types=exercises,%
+name=Exercise,%
+listname={List of Questions},%
+tocentrystyle=tocline,%
+tocentryindent=0pt,%
+tocentrydynnumwidth,%
+tocentrypagenumberformat=\entryprefix{page~},%
+tocentrypagenumberbox=\mbox
+]{exr}
+\newcommand*\entryprefix[2]{#1#2}
+
+\qformat{%
+	\textbf{Question~\thequestion}%
+	\addxcontentsline{exr}{exercise}{Question~\thequestion}%
+	\hfill\thepoints%
+}
+
+\begin{document}
+	
+	\begingroup  
+	\centering
+	\LARGE AP Calculus AB\\
+	\LARGE AP Classroom: 4.3 -- 4.4\\[0.5em]
+	\large \today\\[0.5em]
+	\large Brayden Price \\
+	All final solutions are \boxed{boxed} \\
+	\endgroup
+	\rule{\textwidth}{0.4pt}
+	
+	\listofexercises
+	\clearpage
+	
+	\printanswers
+	\renewcommand{\solutiontitle}{\noindent\textbf{Solution:}\enspace}   %Replace "Ans:" with starting keyword in solution box
+	
+	\begin{questions}
+		
+		%Q1
+		\question \begin{table}[]
+			\begin{tabular}{l||l|l|l|l}
+				x & f(x) & f^{\prime}(x) & g(x) & g^{\prime}(x) \\ \hline \hline
+				1 & 6    & 4     & 2    & 5     \\
+				2 & 9    & 2     & 3    & 1     \\
+				3 & 10   & -4    & 4    & 2     \\
+				4 & -1   & 3     & 6    & 7    
+			\end{tabular}
+		\end{table}
+		%BEGIN_FOLD
+		
+		
+	\end{questions}
+\end{document}
