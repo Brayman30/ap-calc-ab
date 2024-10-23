@@ -159,7 +159,24 @@ tocentrypagenumberbox=\mbox
 				$$\frac{dc}{dt}  = \frac{10 \cdot 2(3) - 15 \cdot 2(4)}{2(5)} = \frac{60-120}{10} = - \frac{60}{10} = \boxed{-6 \frac{\text{km}}{\text{hr}}}$$
 			\end{solution}
 		%Q5
-		\question
+		\question Consider the curve give by $y^2=2+xy$ \\
+		Let $x$ and $y$ be functions of time $t$ that are related by the equation $y^2 = 2 + xy$. At time $t=5$, the value of $y$ is $3$ and $dy/dt = 6$. Find the value of $dx/dt$ at time $t=5$.
+		
+		\begin{solution}
+			Find x at $y=3$ (will be needed later):
+			\begin{align*}
+				(3)^2 &= 2 + 3x \\
+				9 - 2 &= 3x \\
+				\frac{7}{3} &= x
+			\end{align*}
+			Take derivative of given curve and then solve for $dx/dt$:
+			\begin{align*}
+				2y \cdot \frac{dy}{dt} &= x \cdot \frac{dy}{dt} + y \cdot \frac{dx}{dt} \\
+				\frac{ 2y \cdot \frac{dy}{dt} - x \cdot \frac{dy}{dt} } { y } &= \frac{dx}{dt}
+			\end{align*}
+			Plug in knowns and simplify:
+			$$\frac{ 2(3) \cdot 6 - \frac{7}{3} \cdot 6 } { 3 } = \frac{36-14}{3} = \boxed{\frac{22}{3} = \frac{dx}{dt}}$$
+		\end{solution}
 		%Q6
 		\question
 		%Q7

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 19:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -411,7 +411,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 16.
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -434,7 +434,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
 ))
 Package tocbasic Info: omitting babel extension for `exr'
-(tocbasic)             because of missing \bbl@set@language on input line 36.
+(tocbasic)             because of missing \bbl@set@language on input line 46.
 \scr@dte@exercise@maxnumwidth=\skip84
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
@@ -445,24 +445,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (AP_Classroom_4-3_to_4-4.aux)
 \openout1 = `AP_Classroom_4-3_to_4-4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
@@ -489,7 +489,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 .cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 45.
+Package hyperref Info: Link coloring ON on input line 55.
  (AP_Classroom_4-3_to_4-4.out) (AP_Classroom_4-3_to_4-4.out)
 \@outlinefile=\write3
 \openout3 = `AP_Classroom_4-3_to_4-4.out'.
@@ -529,18 +529,18 @@ Package hyperref Info: Link coloring ON on input line 45.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
 
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 55--56
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 65--66
 [][] 
  []
 
@@ -568,7 +568,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 14.
 [1
 
 {C:/Users/Brayden/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
 
  []
 
@@ -582,18 +582,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--89
 <Question04-001.jpg, id=60, 210.7875pt x 162.6075pt>
 File: Question04-001.jpg Graphic file (type jpg)
 <use Question04-001.jpg>
-Package pdftex.def Info: Question04-001.jpg  used on input line 133.
+Package pdftex.def Info: Question04-001.jpg  used on input line 143.
 (pdftex.def)             Requested size: 301.18147pt x 232.34583pt.
 
 
 [4 <./Question04-001.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 138--145
+Underfull \hbox (badness 10000) in paragraph at lines 148--155
 
  []
 
 
 
 [5]
+
+[6]
 This exam contains 14 questions with 0 parts, 0 subparts, and 0 subsubparts.
 (AP_Classroom_4-3_to_4-4.aux)
  ***********
@@ -605,13 +607,13 @@ Package rerunfilecheck Info: File `AP_Classroom_4-3_to_4-4.out' has not changed
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13009 strings out of 473899
- 211517 string characters out of 5725555
+ 13011 strings out of 473899
+ 211531 string characters out of 5725555
  694736 words of memory out of 5000000
- 35711 multiletter control sequences out of 15000+600000
+ 35712 multiletter control sequences out of 15000+600000
  567529 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,11n,93p,401b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,11n,93p,401b,636s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmbxti10.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts
@@ -629,9 +631,9 @@ MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Brayden/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Brayden/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/B
 rayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on AP_Classroom_4-3_to_4-4.pdf (5 pages, 194600 bytes).
+Output written on AP_Classroom_4-3_to_4-4.pdf (6 pages, 196580 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
