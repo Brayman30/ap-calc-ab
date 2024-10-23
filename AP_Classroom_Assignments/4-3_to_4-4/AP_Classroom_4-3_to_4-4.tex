@@ -142,7 +142,6 @@ tocentrypagenumberbox=\mbox
 		%Q4
 		\question \includegraphics[width=0.7\linewidth]{Question04-001} \\ 
 		Ship $A$ is traveling due west toward Lighthouse Rock at a speed of $15$ kilometers per hour (km/hr). Ship $B$ is traveling due north away from Lighthouse rock at a speed of $10$ km/hr. Let $x$ be the distance between Ship $A$ and Lighthouse Rock at time $t$, and let $y$ be the distance between Ship $B$ and Lighthouse Rock at time $t$, as shown in the figure above.
-		\pagebreak
 			\begin{solution}
 				\vfill
 				Equation (Pythagorean Theorem) of situation: $c^2=y^2+x^2$
@@ -161,7 +160,6 @@ tocentrypagenumberbox=\mbox
 		%Q5
 		\question Consider the curve give by $y^2=2+xy$ \\
 		Let $x$ and $y$ be functions of time $t$ that are related by the equation $y^2 = 2 + xy$. At time $t=5$, the value of $y$ is $3$ and $dy/dt = 6$. Find the value of $dx/dt$ at time $t=5$.
-		
 		\begin{solution}
 			Find x at $y=3$ (will be needed later):
 			\begin{align*}
@@ -178,7 +176,16 @@ tocentrypagenumberbox=\mbox
 			$$\frac{ 2(3) \cdot 6 - \frac{7}{3} \cdot 6 } { 3 } = \frac{36-14}{3} = \boxed{\frac{22}{3} = \frac{dx}{dt}}$$
 		\end{solution}
 		%Q6
-		\question
+		\question The radius $r$ of a sphere is increasing at a constant rate of $0.04$ centimeters per second. (Note: The volume $V$ of a sphere with radius $r$ is $V= \nicefrac{4}{3} \pi r^3$.) \\
+		At the time when the radius, $r$, of the sphere is 10 centimeters, what is the rate of increase of its volume, $dV/dt$?
+		
+		\begin{solution}
+			Differentiate given equation with respect to $t$ (time):
+			$$\frac{dV}{dt} = \frac{4}{3} \pi (3r^2) (\frac{dr}{dt})$$
+			Plug in knowns and simplify:
+			$$\frac{4}{3} \pi (3(10)^2) (0.04) = \frac{4}{3} \pi (12) = \boxed{10\pi = \frac{dV}{dt}}$$
+		\end{solution}
+		
 		%Q7
 		\question
 		%Q8
