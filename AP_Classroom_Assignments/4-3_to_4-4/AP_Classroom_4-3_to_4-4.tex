@@ -130,7 +130,24 @@ tocentrypagenumberbox=\mbox
 			\end{solution}
 	
 		%Q4
-		\question
+		\question \includegraphics[width=0.7\linewidth]{Question04-001} \\ 
+		Ship $A$ is traveling due west toward Lighthouse Rock at a speed of $15$ kilometers per hour (km/hr). Ship $B$ is traveling due north away from Lighthouse rock at a speed of $10$ km/hr. Let $x$ be the distance between Ship $A$ and Lighthouse Rock at time $t$, and let $y$ be the distance between Ship $B$ and Lighthouse Rock at time $t$, as shown in the figure above.
+		\pagebreak
+			\begin{solution}
+				\vfill
+				Equation (Pythagorean Theorem) of situation: $c^2=y^2+x^2$
+				Find: $\frac{dc}{dt}$ \\
+				When: $x=4$ km and $y=3$ km
+				Other Rates: $\frac{dx}{dt} = -15 \frac{\text{km}}{\text{hr}}$ and $\frac{dy}{dt} = 10 \frac{\text{km}}{\text{hr}}$ \\
+				$c$ is the hypotenuse / distance between Ship $B$ and Ship $A$. \\
+				Using Pythagorean Theorem: $ c = \sqrt{4^2 + 3^2} = 5 $ \\ \\ 
+				Find derivative of equation:
+				$$\frac{dc}{dt} \cdot 2c = \frac{dy}{dt} \cdot 2y + \frac{dx}{dt} \cdot 2x$$
+				Solve for $\frac{dc}{dt}$:
+				$$\frac{dc}{dt}  = \frac{\frac{dy}{dt} \cdot 2y + \frac{dx}{dt} \cdot 2x}{2c}$$
+				Plug in knowns and solve:
+				$$\frac{dc}{dt}  = \frac{10 \cdot 2(3) - 15 \cdot 2(4)}{2(5)} = \frac{60-120}{10} = - \frac{60}{10} = \boxed{-6 \frac{\text{km}}{\text{hr}}}$$
+			\end{solution}
 		%Q5
 		\question
 		%Q6
