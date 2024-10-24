@@ -183,7 +183,7 @@ tocentrypagenumberbox=\mbox
 			Differentiate given equation with respect to $t$ (time):
 			$$\frac{dV}{dt} = \frac{4}{3} \pi (3r^2) \left( \frac{dr}{dt}\right) $$
 			Plug in knowns and simplify:
-			$$\frac{4}{3} \pi (3(10)^2) (0.04) = \frac{4}{3} \pi (12) = \boxed{10\pi = \frac{dV}{dt}}$$
+			$$\frac{4}{3} \pi (3(10)^2) (0.04) = \frac{4}{3} \pi (12) = \boxed{16\pi = \frac{dV}{dt}}$$
 		\end{solution}
 		%Q7
 		\question \includegraphics[width=0.35\linewidth]{Question07-001} \\
@@ -235,18 +235,19 @@ tocentrypagenumberbox=\mbox
 				$$\frac{dy}{dx} = \frac{d}{dx} (x ^ {-2}) = -2x^{-3} = \frac{-2}{x^3}$$
 			\begin{parts}
 				\part %a
-					In order to find Point $R$, where $y=0$, we should write the equation of line $\ell$ where $x=w$ (the x-coordinate of point $P$) and then plug in $y=0$ and solve for x:
+					In order to find Point $R$, where $y=0$, we should write the equation of line $\ell$ where $x=w$ (the x-coordinate of point $P$) and then plug in $y=0$:
 					\begin{align*}
-						y-\frac{1}{w^2} &= \left( \frac{dy}{dx}\bigg{|}_{x=w} \right) (x-w) \\
-						-\frac{1}{w^2} &= \left( \frac{dy}{dx}\bigg{|}_{x=w} \right) (x-w) \\
-						x &= \frac{-\frac{1}{w^2}}{\frac{dy}{dx}\big{|}_{x=w}} + w \\
-						x &= (-w^2)(\frac{1}{\frac{dy}{dx}\big{|}_{x=w}}) + w
+						y-\frac{1}{w^2} &= \left( \frac{dy}{dx}\bigg{|}_{x=w} \right) (k-w) \\
+						-\frac{1}{w^2} &= \left( \frac{dy}{dx}\bigg{|}_{x=w} \right) (k-w) 
 					\end{align*}
-					Now, we need to plug in $w=3$:
+					Now, we need to plug in $w=3$ and solve for x:
 					\begin{align*}
-						 x &= (-3^2)(\frac{1}{\frac{dy}{dx}\big{|}_{x=3}}) + 3 \\
-						 x &= (-9)(\frac{1}{\frac{-2}{(3)^3}}) + 3 \\
-						 x &= (-9)(\frac{3^3}{-2}) + 3
+						-\frac{1}{3^2}  &= \left( \frac{dy}{dx}\bigg{|}_{x=3} \right) (k-3) \\
+						-\frac{1}{9}    &= \left(-\frac{2}{3^3} \right) (k-3) \\
+						-\frac{1}{9}    &= \left(-\frac{2}{27} \right) (k-3) \\
+						k-3			    &= \frac{-\frac{1}{27}}{-\frac{2}{9}} \\
+						k 			    &= \left( -\frac{1}{27} \cdot -\frac{9}{2} \right) + 3 \\
+						k 			    &= \boxed {\frac{9}{54} + 3 = \frac{1}{6} + 3 = \frac{19}{6} \approx 3.1667}
 					\end{align*}
 				\part %b
 				
