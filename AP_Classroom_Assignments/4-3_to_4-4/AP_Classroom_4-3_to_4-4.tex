@@ -181,7 +181,7 @@ tocentrypagenumberbox=\mbox
 		
 		\begin{solution}
 			Differentiate given equation with respect to $t$ (time):
-			$$\frac{dV}{dt} = \frac{4}{3} \pi (3r^2) (\frac{dr}{dt})$$
+			$$\frac{dV}{dt} = \frac{4}{3} \pi (3r^2) \left( \frac{dr}{dt}\right) $$
 			Plug in knowns and simplify:
 			$$\frac{4}{3} \pi (3(10)^2) (0.04) = \frac{4}{3} \pi (12) = \boxed{10\pi = \frac{dV}{dt}}$$
 		\end{solution}
@@ -199,16 +199,63 @@ tocentrypagenumberbox=\mbox
 			Solve for $\frac{dx}{dt}$:
 			$$\frac{2z\frac{dz}{dt} - 2y\frac{dy}{dt}} {2x} = \frac{dx}{dt}$$
 			Plug in knowns and simplify:
-			$$\frac{2(5)(1) - 2(3)(\frac{1}{3} \cdot \frac{dx}{dt})} {2(4)} = \frac{10 - 6(\frac{1}{3} \cdot \frac{dx}{dt})} {8} =  \frac{10 - 2\frac{dx}{dt}}{8} = \frac{dx}{dt}$$ \\
-			$$\frac{dx}{dt} + \frac{2}{8} (\frac{dx}{dt}) = \frac{10}{8}$$
-			$$\frac{10}{8} (\frac{dx}{dt}) = \frac{10}{8}$$
+			$$\frac{2(5)(1) - 2(3)(\frac{1}{3} \cdot \frac{dx}{dt})} {2(4)} = \frac{10 - 6\left( \frac{1}{3} \cdot \frac{dx}{dt}\right) } {8} =  \frac{10 - 2\frac{dx}{dt}}{8} = \frac{dx}{dt}$$ \\
+			$$\frac{dx}{dt} + \frac{2}{8} \left( \frac{dx}{dt}\right)  = \frac{10}{8}$$
+			$$\frac{10}{8} \left( \frac{dx}{dt}\right)  = \frac{10}{8}$$
 			$$\boxed{\frac{dx}{dt} = 1}$$
 		\end{solution}
 		
 		%Q8
-		\question
+		\question 
+		\question \includegraphics[width=0.5\linewidth]{Question08-001}\\
+		The twice-differentiable function W models the volume of water in a reservoir at time $t$, where $W(t)$ is measured in (GL) and $t$ is measured in days. The table above gives values of $W^{\prime}(t)$ sampled at various times during the time interval $0 \leq t \leq 30$ days. At time $t = 30$, the reservoir contains 125 gigaliters of water. \\ \\
+		The equation $A = 0.3W^{\nicefrac{2}{3}}$ gives the relationship between the area $A$, in square kilometers, of the surface of the reservoir, and the volume of the water $W(t)$, in gigaliters, in the reservoir. Find the instantaneous rate of change of $A$, in square kilometer per day, with respect to $t$ when $t$ = 30 days.
+		\begin{solution}
+			We are attempting to find $A^{\prime}(t)$ when $t=30$ days. \\
+			Knowns: $W^\prime(30) = 0.5$, $W(30)=125$ and $A=7.5$
+			Differentiate given equation for $A$:
+			$$A^{\prime} = 0.4(\nicefrac{2}{3}W^{\nicefrac{1}{3}})(W^{\prime})$$
+			Plug in and simplify:
+			$$\left( \frac{3}{10}\right) \left( \frac{2}{3 \sqrt[3]{125}}\right) \left( \frac{1}{2}\right)  = \frac{6}{300} = \boxed{0.02 = A^{\prime}}$$
+		\end{solution}
 		%Q9
-		\question
+		\question 
+		\includegraphics{Question09-001} \\
+		In the figure above, line $\ell$ is tangent to the graph of $y = \frac{1}{x^2}$ at point $P$, with coordinates $w,\frac{1}{w^2}$, where $w > 0$. Point $Q$ has coordinates $(w, 0)$. Line $\ell$ crosses the $x$-axis at point $R$, with coordinates $(k, 0)$.
+			\begin{parts}
+				\part Find the value of $k$ when $w = 3$. 
+				\part For all $w > 0$, find $k$ in terms of $w$.
+				\part Suppose that $w$ is increasing at the constant rate of 7 units per second. When $w = 5$, what is the rate of change of $k$ with respect to time?
+				\part  Suppose that $w$ is increasing at the constant rate of 7 units per second. When $w = 5$, what is the rate of change of the area of $PQR$ with respect to time? Determine whether the area is increasing or decreasing at this instant.
+			\end{parts}
+			
+		\begin{solution}
+				The slope of the tangent line $\ell$ is $\frac{dy}{dx}\big{|}_{x=w}$ (Since w is the x coordinate of point $P$.) \\
+				Derivative of $y$:
+				$$\frac{dy}{dx} = \frac{d}{dx} (x ^ {-2}) = -2x^{-3} = \frac{-2}{x^3}$$
+			\begin{parts}
+				\part %a
+					In order to find Point $R$, where $y=0$, we should write the equation of line $\ell$ where $x=w$ (the x-coordinate of point $P$) and then plug in $y=0$ and solve for x:
+					\begin{align*}
+						y-\frac{1}{w^2} &= \left( \frac{dy}{dx}\bigg{|}_{x=w} \right) (x-w) \\
+						-\frac{1}{w^2} &= \left( \frac{dy}{dx}\bigg{|}_{x=w} \right) (x-w) \\
+						x &= \frac{-\frac{1}{w^2}}{\frac{dy}{dx}\big{|}_{x=w}} + w \\
+						x &= (-w^2)(\frac{1}{\frac{dy}{dx}\big{|}_{x=w}}) + w
+					\end{align*}
+					Now, we need to plug in $w=3$:
+					\begin{align*}
+						 x &= (-3^2)(\frac{1}{\frac{dy}{dx}\big{|}_{x=3}}) + 3 \\
+						 x &= (-9)(\frac{1}{\frac{-2}{(3)^3}}) + 3 \\
+						 x &= (-9)(\frac{3^3}{-2}) + 3
+					\end{align*}
+				\part %b
+				
+				\part %c
+				
+				\part %d
+				
+			\end{parts}
+		\end{solution}
 		%Q10
 		\question
 		%Q11
