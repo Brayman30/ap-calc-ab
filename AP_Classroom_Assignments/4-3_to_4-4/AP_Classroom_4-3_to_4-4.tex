@@ -229,10 +229,12 @@ tocentrypagenumberbox=\mbox
 				\part  Suppose that $w$ is increasing at the constant rate of 7 units per second. When $w = 5$, what is the rate of change of the area of $PQR$ with respect to time? Determine whether the area is increasing or decreasing at this instant.
 			\end{parts}
 			
+		\pagebreak
 		\begin{solution}
 				The slope of the tangent line $\ell$ is $\frac{dy}{dx}\big{|}_{x=w}$ (Since w is the x coordinate of point $P$.) \\
 				Derivative of $y$:
 				$$\frac{dy}{dx} = \frac{d}{dx} (x ^ {-2}) = -2x^{-3} = \frac{-2}{x^3}$$
+				
 			\begin{parts}
 				\part %a
 					In order to find Point $R$, where $y=0$, we should write the equation of line $\ell$ where $x=w$ (the x-coordinate of point $P$) and then plug in $y=0$:
@@ -250,7 +252,13 @@ tocentrypagenumberbox=\mbox
 						k 			    &= \boxed {\frac{9}{54} + 3 = \frac{1}{6} + 3 = \frac{19}{6} \approx 3.1667}
 					\end{align*}
 				\part %b
-				
+					\begin{align*}
+						-\frac{1}{w^2} &= \left( \frac{dy}{dx}\bigg{|}_{x=w} \right) (k-w) \\
+						-\frac{1}{w^2} &= \left( \frac{-2}{w^3} \right) (k-w) \\ 
+						k-w &= -\frac{1}{w^2} \div \left( \frac{-2}{w^3} \right) \\
+						k &= -\frac{1}{w^2} \left( \frac{w^3}{-2} \right) + w \\
+						k &= \frac{w}{2} + w = \boxed{\frac{3w}{2}}
+					\end{align*}
 				\part %c
 				
 				\part %d
