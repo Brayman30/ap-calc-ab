@@ -185,9 +185,26 @@ tocentrypagenumberbox=\mbox
 			Plug in knowns and simplify:
 			$$\frac{4}{3} \pi (3(10)^2) (0.04) = \frac{4}{3} \pi (12) = \boxed{10\pi = \frac{dV}{dt}}$$
 		\end{solution}
-		
 		%Q7
-		\question
+		\question \includegraphics[width=0.35\linewidth]{Question07-001} \\
+		The sides of the rectangle above increase in such a way that $\frac{dz}{dt} = 1$ and $\frac{dx}{dt} = 3 \frac{dy}{dt}$. At the instant when $x = 4$ and $y = 3$, what is the value of $\frac{dx}{dt}$?
+		
+		\begin{solution}
+			Write $\frac{dy}{dt}$ in terms of $\frac{dx}{dt}$ (will be needed later):
+			$$\frac{1}{3} \cdot \frac{dx}{dt} = \frac{dy}{dt}$$
+			Find z using Pythagorean Theorem (will be needed later):
+			$$z = \sqrt{4^2+3^2} = 5$$
+			Write derivative of Formula for side lengths of triangle (Pythagorean Theorem):
+			$$2z\frac{dz}{dt}=2x\frac{dx}{dt} + 2y\frac{dy}{dt}$$
+			Solve for $\frac{dx}{dt}$:
+			$$\frac{2z\frac{dz}{dt} - 2y\frac{dy}{dt}} {2x} = \frac{dx}{dt}$$
+			Plug in knowns and simplify:
+			$$\frac{2(5)(1) - 2(3)(\frac{1}{3} \cdot \frac{dx}{dt})} {2(4)} = \frac{10 - 6(\frac{1}{3} \cdot \frac{dx}{dt})} {8} =  \frac{10 - 2\frac{dx}{dt}}{8} = \frac{dx}{dt}$$ \\
+			$$\frac{dx}{dt} + \frac{2}{8} (\frac{dx}{dt}) = \frac{10}{8}$$
+			$$\frac{10}{8} (\frac{dx}{dt}) = \frac{10}{8}$$
+			$$\boxed{\frac{dx}{dt} = 1}$$
+		\end{solution}
+		
 		%Q8
 		\question
 		%Q9
