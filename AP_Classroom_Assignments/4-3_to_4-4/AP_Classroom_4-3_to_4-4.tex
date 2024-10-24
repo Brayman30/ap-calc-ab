@@ -52,6 +52,9 @@ tocentrypagenumberbox=\mbox
 	\hfill\thepoints%
 }
 
+% Command for Line Segment 
+\newcommand{\lineSeg}[1]{\overline{\mathrm{#1}}}
+
 \begin{document}
 	
 	\begingroup  
@@ -272,10 +275,29 @@ tocentrypagenumberbox=\mbox
 					Plug in Knowns:
 					\begin{align*}
 					\frac{dk}{dt} &=  \frac{3}{2}\left( 7 \right) \\
-					\frac{dk}{dt} &=  \boxed{\frac{21}{2} = 10.5}
+					\frac{dk}{dt} &=  \boxed{\frac{21}{2} = 10.5 \text{ units p/ sec}}
 					\end{align*}
+				\pagebreak
 				\part %d
-				
+					\begin{gather*}
+						\lineSeg{PQ} = \frac{1}{w^2} - 0 \\
+						\lineSeg{QR} = k-w \\ \\
+						\frac{dw}{dt} = 7 (\text{given in problem})
+						\frac{dk}{dt} = \frac{3}{2}\left( \frac{dw}{dt} \right)
+					\end{gather*}
+					\begin{align*}
+						A &= \frac{1}{2} \left( \lineSeg{QR} \right) \left( \lineSeg{PQ} \right)  \\
+						A &= \frac{1}{2} \left( \frac{k-w}{w^2} \right) \\
+						A &= \frac{k}{2w^2} - \frac{w}{2w^2} \\
+						\frac{dA}{dt} &= \frac{ 2w^2 \left( \frac{d}{dt} \left( k-w \right) \right) }{4w^4} - \frac{\left(   k - w \right) \left( \frac{d}{dt} \left( 2w^2 \right) \right)  }{4w^4} \\
+						\frac{dA}{dt} &= \frac{ 2w^2 \left( \frac{dk}{dt} - \frac{dw}{dt} \right) }{4w^4} - \frac{\left(   k - w \right)  \left( 4w \frac{dw}{dt} \right)  }{4w^4} \\
+						\text{Find } k \text{ and } \frac{dk}{dt} \text{ so we can plug them in:} \\
+						\frac{dk}{dt} &= \frac{3}{2} (7) = \frac{17}{2} = 8.5\\
+						k &= \frac{3w}{2} = \frac{15}{2} = 7.5\\
+						\text{Plug in } \frac{dw}{dt}, w \text{ and } \frac{dk}{dt}: \\
+						\frac{dA}{dt} &= \frac{ (50) \left( 8.5 - 7 \right) }{2500} - \frac{\left( 7.5 - 5 \right)  \left( 20 (7) \right)  }{2500} \\
+						\frac{dA}{dt} &= \frac{75 - 350}{2500} = \boxed{-\frac{275}{2500} = -0.11 \text{ units\textsuperscript{2} p/ sec}}
+					\end{align*}
 			\end{parts}
 		\end{solution}
 		%Q10

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 21:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -445,24 +445,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (AP_Classroom_4-3_to_4-4.aux)
 \openout1 = `AP_Classroom_4-3_to_4-4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
@@ -489,7 +489,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 .cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 55.
+Package hyperref Info: Link coloring ON on input line 58.
  (AP_Classroom_4-3_to_4-4.out) (AP_Classroom_4-3_to_4-4.out)
 \@outlinefile=\write3
 \openout3 = `AP_Classroom_4-3_to_4-4.out'.
@@ -529,18 +529,18 @@ Package hyperref Info: Link coloring ON on input line 55.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 66.
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
 
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 65--66
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 68--69
 [][] 
  []
 
@@ -569,7 +569,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 15.
 [1
 
 {C:/Users/Brayden/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 
  []
 
@@ -583,10 +583,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--99
 <Question04-001.jpg, id=62, 210.7875pt x 162.6075pt>
 File: Question04-001.jpg Graphic file (type jpg)
 <use Question04-001.jpg>
-Package pdftex.def Info: Question04-001.jpg  used on input line 143.
+Package pdftex.def Info: Question04-001.jpg  used on input line 146.
 (pdftex.def)             Requested size: 301.18147pt x 232.34583pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--154
+Underfull \hbox (badness 10000) in paragraph at lines 150--157
 
  []
 
@@ -598,10 +598,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--154
 <Question07-001.jpg, id=71, 216.81pt x 119.44624pt>
 File: Question07-001.jpg Graphic file (type jpg)
 <use Question07-001.jpg>
-Package pdftex.def Info: Question07-001.jpg  used on input line 189.
+Package pdftex.def Info: Question07-001.jpg  used on input line 192.
 (pdftex.def)             Requested size: 150.59402pt x 82.97023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
  []
 
@@ -611,20 +611,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--203
 <Question08-001.jpg, id=78, 238.491pt x 97.5645pt>
 File: Question08-001.jpg Graphic file (type jpg)
 <use Question08-001.jpg>
-Package pdftex.def Info: Question08-001.jpg  used on input line 210.
+Package pdftex.def Info: Question08-001.jpg  used on input line 213.
 (pdftex.def)             Requested size: 215.13057pt x 88.00967pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--214
+Underfull \hbox (badness 10000) in paragraph at lines 213--217
 
  []
 
 <Question09-001.jpg, id=79, 532.23843pt x 198.7425pt>
 File: Question09-001.jpg Graphic file (type jpg)
 <use Question09-001.jpg>
-Package pdftex.def Info: Question09-001.jpg  used on input line 223.
+Package pdftex.def Info: Question09-001.jpg  used on input line 226.
 (pdftex.def)             Requested size: 532.23712pt x 198.742pt.
 
-Overfull \hbox (101.97598pt too wide) in paragraph at lines 223--225
+Overfull \hbox (101.97598pt too wide) in paragraph at lines 226--228
 [] 
  []
 
@@ -633,10 +633,25 @@ Overfull \hbox (101.97598pt too wide) in paragraph at lines 223--225
 [7 <./Question08-001.jpg>]
 
 [8 <./Question09-001.jpg>]
+Overfull \hbox (51.53873pt too wide) detected at line 300
+[]
+ []
+
+
 
 [9]
+Underfull \vbox (badness 10000) detected at line 302
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 302
+ []
+
+
 
 [10]
+
+[11]
 This exam contains 15 questions with 4 parts, 0 subparts, and 0 subsubparts.
 (AP_Classroom_4-3_to_4-4.aux)
  ***********
@@ -648,13 +663,13 @@ Package rerunfilecheck Info: File `AP_Classroom_4-3_to_4-4.out' has not changed
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13092 strings out of 473899
- 213031 string characters out of 5725555
- 699736 words of memory out of 5000000
- 35780 multiletter control sequences out of 15000+600000
+ 13095 strings out of 473899
+ 213054 string characters out of 5725555
+ 707736 words of memory out of 5000000
+ 35782 multiletter control sequences out of 15000+600000
  567529 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,14n,93p,401b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,17n,93p,401b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmbxti10.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts
@@ -672,9 +687,9 @@ MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Brayden/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Brayden/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/B
 rayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on AP_Classroom_4-3_to_4-4.pdf (10 pages, 241180 bytes).
+Output written on AP_Classroom_4-3_to_4-4.pdf (11 pages, 244021 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
+ 179 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
