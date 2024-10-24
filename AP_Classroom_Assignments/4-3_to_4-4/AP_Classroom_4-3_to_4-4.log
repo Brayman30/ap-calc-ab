@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 23:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  24 OCT 2024 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -16,14 +16,14 @@ Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count194
-\c@section=\count195
-\c@subsection=\count196
-\c@subsubsection=\count197
-\c@paragraph=\count198
-\c@subparagraph=\count199
-\c@figure=\count266
-\c@table=\count267
+\c@part=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\c@figure=\count196
+\c@table=\count197
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
@@ -40,40 +40,40 @@ File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \covfp@exhd=\skip60
 \covrun@exft=\skip61
 \covfp@exft=\skip62
-\c@num@coverpages=\count268
-\c@latest@ques=\count269
-\c@ques@end=\count270
-\c@last@object=\count271
-\c@incmp@ques=\count272
-\c@next@ques=\count273
-\c@next@page=\count274
-\c@tmp@hlfcntr=\count275
-\c@ifpos@cntr=\count276
-\c@question=\count277
-\c@partno=\count278
-\c@subpart=\count279
-\c@subsubpart=\count280
-\c@choice=\count281
-\c@numpoints=\count282
-\c@numbonuspoints=\count283
-\c@pointsof@thisquestion=\count284
-\c@bonuspointsof@thisquestion=\count285
-\c@numquestions=\count286
-\c@numparts=\count287
-\c@numsubparts=\count288
-\c@numsubsubparts=\count289
-\c@Curr@Page=\count290
-\c@@pagepoints=\count291
-\c@@pagebonuspoints=\count292
-\c@pageof@pagepoints=\count293
-\c@pageof@pagebonuspoints=\count294
-\c@latest@points=\count295
-\c@latest@bonuspoints=\count296
+\c@num@coverpages=\count198
+\c@latest@ques=\count199
+\c@ques@end=\count266
+\c@last@object=\count267
+\c@incmp@ques=\count268
+\c@next@ques=\count269
+\c@next@page=\count270
+\c@tmp@hlfcntr=\count271
+\c@ifpos@cntr=\count272
+\c@question=\count273
+\c@partno=\count274
+\c@subpart=\count275
+\c@subsubpart=\count276
+\c@choice=\count277
+\c@numpoints=\count278
+\c@numbonuspoints=\count279
+\c@pointsof@thisquestion=\count280
+\c@bonuspointsof@thisquestion=\count281
+\c@numquestions=\count282
+\c@numparts=\count283
+\c@numsubparts=\count284
+\c@numsubsubparts=\count285
+\c@Curr@Page=\count286
+\c@@pagepoints=\count287
+\c@@pagebonuspoints=\count288
+\c@pageof@pagepoints=\count289
+\c@pageof@pagebonuspoints=\count290
+\c@latest@points=\count291
+\c@latest@bonuspoints=\count292
 \pageinfo@commands=\toks17
 \temp@toks=\toks18
 \pagepoint@commands=\toks19
 \point@toks=\toks20
-\c@ques@object=\count297
+\c@ques@object=\count293
 \marginpointssep=\skip63
 \rightpointsmargin=\skip64
 \choice@toks=\toks21
@@ -87,21 +87,21 @@ File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \gridsize=\skip72
 \gridlinewidth=\skip73
 \minboxheight=\skip74
-\c@@iterator=\count298
+\c@@iterator=\count294
 \@cellwidth=\skip75
-\c@tbl@points=\count299
-\c@tbl@bonuspoints=\count300
-\c@pq@index=\count301
-\c@pq@index@pts=\count302
-\c@pq@index@bpts=\count303
-\c@num@cols=\count304
-\c@num@rows=\count305
-\c@current@row=\count306
-\c@cols@done=\count307
-\c@exam@saved@eqnum=\count308
+\c@tbl@points=\count295
+\c@tbl@bonuspoints=\count296
+\c@pq@index=\count297
+\c@pq@index@pts=\count298
+\c@pq@index@bpts=\count299
+\c@num@cols=\count300
+\c@num@rows=\count301
+\c@current@row=\count302
+\c@cols@done=\count303
+\c@exam@saved@eqnum=\count304
 \exam@box=\box52
 \saved@totalleftmargin=\dimen142
-\@sollistdepth=\count309
+\@sollistdepth=\count305
 \exam@FrameRule=\dimen143
 \exam@FrameSep=\dimen144
 )
@@ -125,14 +125,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count310
+\inf@bad=\count306
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count311
-\leftroot@=\count312
+\uproot@=\count307
+\leftroot@=\count308
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count313
-\DOTSCASE@=\count314
+\classnum@=\count309
+\DOTSCASE@=\count310
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -145,20 +145,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen147
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count315
+\macc@depth=\count311
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count316
+\c@MaxMatrixCols=\count312
 \dotsspace@=\muskip17
-\c@parentequation=\count317
-\dspbrk@lvl=\count318
+\c@parentequation=\count313
+\dspbrk@lvl=\count314
 \tag@help=\toks23
-\row@=\count319
-\column@=\count320
-\maxfields@=\count321
+\row@=\count315
+\column@=\count316
+\maxfields@=\count317
 \andhelp@=\toks24
 \eqnshift@=\dimen148
 \alignsep@=\dimen149
@@ -204,11 +204,11 @@ Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 .cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 106.
+Package graphics Info: Driver file: xetex.def on input line 106.
 
-(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
-ef
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.de
+f
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen154
 \Gin@req@width=\dimen155
@@ -273,7 +273,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode not found.
 ))
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
@@ -292,11 +292,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 ty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count322
+\c@section@level=\count318
 )
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count323
+\etb@tempcnta=\count319
 )
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
 .sty
@@ -304,22 +304,18 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen156
-\Hy@linkcounter=\count324
-\Hy@pagecounter=\count325
+\Hy@linkcounter=\count320
+\Hy@pagecounter=\count321
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count326
+\Hy@SavedSpaceFactor=\count322
  (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
@@ -328,7 +324,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count327
+\c@Hy@tempcnt=\count323
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -344,7 +340,7 @@ lc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count328
+\Fld@menulength=\count324
 \Field@Width=\dimen158
 \Fld@charsize=\dimen159
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -359,14 +355,23 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count329
-\c@Item=\count330
-\c@Hfootnote=\count331
+\Hy@abspage=\count325
+\c@Item=\count326
+\c@Hfootnote=\count327
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
+Package hyperref Info: Driver (autodetected): hxetex.
 
-(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2024-07-10 v7.01j Hyperref driver for XeTeX
+\pdfm@box=\box56
+\c@Hy@AnnotLevel=\count328
+\HyField@AnnotCount=\count329
+\Fld@listcount=\count330
+\c@bookmark@seq@number=\count331
+
+(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.st
 y
@@ -374,13 +379,6 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count332
-\c@bookmark@seq@number=\count333
-
-(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
-ilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
 ecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
@@ -397,12 +395,11 @@ Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 g
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 274.
+Package xcolor Info: Driver file: xetex.def on input line 274.
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
 x)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
@@ -411,16 +408,16 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+Package hyperref Info: Option `colorlinks' set `true' on input line 27.
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count334
-\Gm@cntv=\count335
-\c@Gm@tempcnt=\count336
+\Gm@cnth=\count332
+\Gm@cntv=\count333
+\c@Gm@tempcnt=\count334
 \Gm@bindingoffset=\dimen160
 \Gm@wd@mp=\dimen161
 \Gm@odd@mp=\dimen162
@@ -434,71 +431,56 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
 ))
 Package tocbasic Info: omitting babel extension for `exr'
-(tocbasic)             because of missing \bbl@set@language on input line 46.
+(tocbasic)             because of missing \bbl@set@language on input line 47.
 \scr@dte@exercise@maxnumwidth=\skip84
 
-(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
-dftex.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count337
-\l__pdf_internal_box=\box56
+(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-x
+etex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count335
+\l__pdf_internal_box=\box57
+\g__pdf_backend_annotation_int=\count336
+\g__pdf_backend_link_int=\count337
 ) (AP_Classroom_4-3_to_4-4.aux)
 \openout1 = `AP_Classroom_4-3_to_4-4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+9.
 
-(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
-mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count338
-\scratchdimen=\dimen168
-\scratchbox=\box57
-\nofMPsegments=\count339
-\nofMParguments=\count340
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count341
-\MPscratchDim=\dimen169
-\MPnumerator=\count342
-\makeMPintoPDFobject=\count343
-\everyMPtoPDFconversion=\toks30
+(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
--base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+Package hyperref Info: Link coloring ON on input line 59.
 
-(C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
-.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-Package hyperref Info: Link coloring ON on input line 58.
- (AP_Classroom_4-3_to_4-4.out) (AP_Classroom_4-3_to_4-4.out)
+(AP_Classroom_4-3_to_4-4.out) (AP_Classroom_4-3_to_4-4.out)
 \@outlinefile=\write3
 \openout3 = `AP_Classroom_4-3_to_4-4.out'.
 
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -529,18 +511,18 @@ Package hyperref Info: Link coloring ON on input line 58.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 66.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
 
 
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 68--69
+Overfull \hbox (18.0pt too wide) in paragraph at lines 69--70
 [][] 
  []
 
@@ -556,9 +538,6 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
-Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 13.
-Package tocbasic Info: Using my definition of `\numberline' on input line 14.
 )
 \tf@exr=\write4
 \openout4 = `AP_Classroom_4-3_to_4-4.exr'.
@@ -567,8 +546,8 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 14.
 
 [1
 
-{C:/Users/Brayden/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+]
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
@@ -579,74 +558,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--102
 ]
 
 [3]
-<Question04-001.jpg, id=60, 210.7875pt x 162.6075pt>
-File: Question04-001.jpg Graphic file (type jpg)
-<use Question04-001.jpg>
-Package pdftex.def Info: Question04-001.jpg  used on input line 146.
-(pdftex.def)             Requested size: 301.18147pt x 232.34583pt.
+File: Question04-001.jpg Graphic file (type bmp)
+<Question04-001.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--157
+Underfull \hbox (badness 10000) in paragraph at lines 151--158
 
  []
 
 
 
-[4 <./Question04-001.jpg>]
+[4]
 
 [5]
-<Question07-001.jpg, id=69, 216.81pt x 119.44624pt>
-File: Question07-001.jpg Graphic file (type jpg)
-<use Question07-001.jpg>
-Package pdftex.def Info: Question07-001.jpg  used on input line 192.
-(pdftex.def)             Requested size: 150.59402pt x 82.97023pt.
+File: Question07-001.jpg Graphic file (type bmp)
+<Question07-001.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 
 
-[6 <./Question07-001.jpg>]
-<Question08-001.jpg, id=76, 238.491pt x 97.5645pt>
-File: Question08-001.jpg Graphic file (type jpg)
-<use Question08-001.jpg>
-Package pdftex.def Info: Question08-001.jpg  used on input line 212.
-(pdftex.def)             Requested size: 215.13057pt x 88.00967pt.
+[6]
+File: Question08-001.jpg Graphic file (type bmp)
+<Question08-001.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--216
+Underfull \hbox (badness 10000) in paragraph at lines 213--217
 
  []
 
-<Question09-001.jpg, id=77, 532.23843pt x 198.7425pt>
-File: Question09-001.jpg Graphic file (type jpg)
-<use Question09-001.jpg>
-Package pdftex.def Info: Question09-001.jpg  used on input line 225.
-(pdftex.def)             Requested size: 532.23712pt x 198.742pt.
+File: Question09-001.jpg Graphic file (type bmp)
+<Question09-001.jpg>
 
-Overfull \hbox (101.97598pt too wide) in paragraph at lines 225--227
+Overfull \hbox (102.11134pt too wide) in paragraph at lines 226--228
 [] 
  []
 
 
 
-[7 <./Question08-001.jpg>]
+[7]
 
-[8 <./Question09-001.jpg>]
+[8]
 
 [9]
 
 [10]
-<Question10-001.png, id=103, 188.6247pt x 182.8431pt>
-File: Question10-001.png Graphic file (type png)
-<use Question10-001.png>
-Package pdftex.def Info: Question10-001.png  used on input line 311.
-(pdftex.def)             Requested size: 164.58194pt x 159.54927pt.
+File: Question10-001.png Graphic file (type bmp)
+<Question10-001.png>
 
 
-[11 <./Question10-001.png>]
+[11]
 
 [12]
-This exam contains 14 questions with 4 parts, 0 subparts, and 0 subsubparts.
+This exam contains 11 questions with 4 parts, 0 subparts, and 0 subsubparts.
 (AP_Classroom_4-3_to_4-4.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
@@ -657,35 +621,12 @@ Package rerunfilecheck Info: File `AP_Classroom_4-3_to_4-4.out' has not changed
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13104 strings out of 473899
- 213253 string characters out of 5725555
- 706736 words of memory out of 5000000
- 35790 multiletter control sequences out of 15000+600000
- 567876 words of font info for 74 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 95i,17n,93p,401b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmbxti10.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Brayden/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Brayden/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Brayden/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/
-Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr12.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr17.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr6.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Brayden/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Brayden/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Brayden/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/B
-rayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
-C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mti12.pfb>
-Output written on AP_Classroom_4-3_to_4-4.pdf (12 pages, 267606 bytes).
-PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 12714 strings out of 409029
+ 202995 string characters out of 5756334
+ 699592 words of memory out of 5000000
+ 35252 multiletter control sequences out of 15000+600000
+ 566430 words of font info for 83 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 95i,17n,93p,401b,525s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on AP_Classroom_4-3_to_4-4.pdf (12 pages).
