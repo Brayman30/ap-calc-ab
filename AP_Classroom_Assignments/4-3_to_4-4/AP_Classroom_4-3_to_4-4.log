@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -663,7 +663,7 @@ Here is how much of TeX's memory you used:
  35790 multiletter control sequences out of 15000+600000
  567876 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,17n,93p,401b,640s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,17n,93p,401b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmbxti10.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts
@@ -683,7 +683,7 @@ Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/B
 rayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
 C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mti12.pfb>
-Output written on AP_Classroom_4-3_to_4-4.pdf (12 pages, 266959 bytes).
+Output written on AP_Classroom_4-3_to_4-4.pdf (12 pages, 267606 bytes).
 PDF statistics:
  188 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
