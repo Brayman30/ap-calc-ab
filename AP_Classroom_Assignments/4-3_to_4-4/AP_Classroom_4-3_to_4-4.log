@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 22:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.10)  23 OCT 2024 22:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,7 +559,6 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 Package tocbasic Info: Using my definition of `\numberline' on input line 13.
 Package tocbasic Info: Using my definition of `\numberline' on input line 14.
-Package tocbasic Info: Using my definition of `\numberline' on input line 15.
 )
 \tf@exr=\write4
 \openout4 = `AP_Classroom_4-3_to_4-4.exr'.
@@ -580,7 +579,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--102
 ]
 
 [3]
-<Question04-001.jpg, id=62, 210.7875pt x 162.6075pt>
+<Question04-001.jpg, id=60, 210.7875pt x 162.6075pt>
 File: Question04-001.jpg Graphic file (type jpg)
 <use Question04-001.jpg>
 Package pdftex.def Info: Question04-001.jpg  used on input line 146.
@@ -595,7 +594,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--157
 [4 <./Question04-001.jpg>]
 
 [5]
-<Question07-001.jpg, id=71, 216.81pt x 119.44624pt>
+<Question07-001.jpg, id=69, 216.81pt x 119.44624pt>
 File: Question07-001.jpg Graphic file (type jpg)
 <use Question07-001.jpg>
 Package pdftex.def Info: Question07-001.jpg  used on input line 192.
@@ -608,23 +607,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
 
 [6 <./Question07-001.jpg>]
-<Question08-001.jpg, id=78, 238.491pt x 97.5645pt>
+<Question08-001.jpg, id=76, 238.491pt x 97.5645pt>
 File: Question08-001.jpg Graphic file (type jpg)
 <use Question08-001.jpg>
-Package pdftex.def Info: Question08-001.jpg  used on input line 213.
+Package pdftex.def Info: Question08-001.jpg  used on input line 212.
 (pdftex.def)             Requested size: 215.13057pt x 88.00967pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--217
+Underfull \hbox (badness 10000) in paragraph at lines 212--216
 
  []
 
-<Question09-001.jpg, id=79, 532.23843pt x 198.7425pt>
+<Question09-001.jpg, id=77, 532.23843pt x 198.7425pt>
 File: Question09-001.jpg Graphic file (type jpg)
 <use Question09-001.jpg>
-Package pdftex.def Info: Question09-001.jpg  used on input line 226.
+Package pdftex.def Info: Question09-001.jpg  used on input line 225.
 (pdftex.def)             Requested size: 532.23712pt x 198.742pt.
 
-Overfull \hbox (101.97598pt too wide) in paragraph at lines 226--228
+Overfull \hbox (101.97598pt too wide) in paragraph at lines 225--227
 [] 
  []
 
@@ -633,26 +632,13 @@ Overfull \hbox (101.97598pt too wide) in paragraph at lines 226--228
 [7 <./Question08-001.jpg>]
 
 [8 <./Question09-001.jpg>]
-Overfull \hbox (51.53873pt too wide) detected at line 300
-[]
- []
-
-
 
 [9]
-Underfull \vbox (badness 10000) detected at line 302
- []
-
-
-Underfull \vbox (badness 10000) detected at line 302
- []
-
-
 
 [10]
 
 [11]
-This exam contains 15 questions with 4 parts, 0 subparts, and 0 subsubparts.
+This exam contains 14 questions with 4 parts, 0 subparts, and 0 subsubparts.
 (AP_Classroom_4-3_to_4-4.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
@@ -663,13 +649,13 @@ Package rerunfilecheck Info: File `AP_Classroom_4-3_to_4-4.out' has not changed
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13095 strings out of 473899
- 213054 string characters out of 5725555
+ 13089 strings out of 473899
+ 212954 string characters out of 5725555
  707736 words of memory out of 5000000
- 35782 multiletter control sequences out of 15000+600000
+ 35777 multiletter control sequences out of 15000+600000
  567529 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,17n,93p,401b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,17n,93p,401b,640s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmbxti10.pfb><C:/Users/Brayden/AppData/Local/Programs/MiKTeX/fonts
@@ -687,9 +673,9 @@ MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Brayden/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Brayden/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/B
 rayden/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on AP_Classroom_4-3_to_4-4.pdf (11 pages, 244021 bytes).
+Output written on AP_Classroom_4-3_to_4-4.pdf (11 pages, 243739 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

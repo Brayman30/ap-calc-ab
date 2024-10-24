@@ -209,7 +209,6 @@ tocentrypagenumberbox=\mbox
 		\end{solution}
 		
 		%Q8
-		\question 
 		\question \includegraphics[width=0.5\linewidth]{Question08-001}\\
 		The twice-differentiable function W models the volume of water in a reservoir at time $t$, where $W(t)$ is measured in (GL) and $t$ is measured in days. The table above gives values of $W^{\prime}(t)$ sampled at various times during the time interval $0 \leq t \leq 30$ days. At time $t = 30$, the reservoir contains 125 gigaliters of water. \\ \\
 		The equation $A = 0.3W^{\nicefrac{2}{3}}$ gives the relationship between the area $A$, in square kilometers, of the surface of the reservoir, and the volume of the water $W(t)$, in gigaliters, in the reservoir. Find the instantaneous rate of change of $A$, in square kilometer per day, with respect to $t$ when $t$ = 30 days.
@@ -277,7 +276,6 @@ tocentrypagenumberbox=\mbox
 					\frac{dk}{dt} &=  \frac{3}{2}\left( 7 \right) \\
 					\frac{dk}{dt} &=  \boxed{\frac{21}{2} = 10.5 \text{ units p/ sec}}
 					\end{align*}
-				\pagebreak
 				\part %d
 					\begin{gather*}
 						\lineSeg{PQ} = \frac{1}{w^2} - 0 \\
@@ -291,10 +289,14 @@ tocentrypagenumberbox=\mbox
 						A &= \frac{k}{2w^2} - \frac{w}{2w^2} \\
 						\frac{dA}{dt} &= \frac{ 2w^2 \left( \frac{d}{dt} \left( k-w \right) \right) }{4w^4} - \frac{\left(   k - w \right) \left( \frac{d}{dt} \left( 2w^2 \right) \right)  }{4w^4} \\
 						\frac{dA}{dt} &= \frac{ 2w^2 \left( \frac{dk}{dt} - \frac{dw}{dt} \right) }{4w^4} - \frac{\left(   k - w \right)  \left( 4w \frac{dw}{dt} \right)  }{4w^4} \\
-						\text{Find } k \text{ and } \frac{dk}{dt} \text{ so we can plug them in:} \\
+					\end{align*}
+					Find $k$  and $\frac{dk}{dt}$ so we can plug them in:
+					\begin{align*}
 						\frac{dk}{dt} &= \frac{3}{2} (7) = \frac{17}{2} = 8.5\\
 						k &= \frac{3w}{2} = \frac{15}{2} = 7.5\\
-						\text{Plug in } \frac{dw}{dt}, w \text{ and } \frac{dk}{dt}: \\
+					\end{align*}
+					Plug in $\frac{dw}{dt}, w$ and $\frac{dk}{dt}:$
+					\begin{align*}
 						\frac{dA}{dt} &= \frac{ (50) \left( 8.5 - 7 \right) }{2500} - \frac{\left( 7.5 - 5 \right)  \left( 20 (7) \right)  }{2500} \\
 						\frac{dA}{dt} &= \frac{75 - 350}{2500} = \boxed{-\frac{275}{2500} = -0.11 \text{ units\textsuperscript{2} p/ sec}}
 					\end{align*}
