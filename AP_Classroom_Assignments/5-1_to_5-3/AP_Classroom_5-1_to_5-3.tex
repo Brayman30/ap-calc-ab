@@ -122,11 +122,11 @@ tocentrypagenumberbox=\mbox
 				Since $f(t)$ is defined by $g(t)$ for $6 \leq t \leq 12$, we should use that to find our AROC.
 				$$\text{AROC} = \frac{g(10)-g(8)}{10-8} = \boxed{\frac{428-376}{2} \text{ m\textsuperscript{3} / min} \approx f^\prime(9)}$$ (see above note about simplification)
 				
-				\part Since $g$ is differentiable and $f(t)$ is a polynomial over $0 \leq t < 6$, both individual intervals are continuous. We must check the continuity at $t=6$, however.
-				$$\lim_{t \to 6^-} = 48(6) + 6^2 - \frac{6^3}{12} = 288 + 324 - 18 = 594$$
+				\part Since $g$ is differentiable and $f(t)$ is defined by a polynomial over $0 \leq t < 6$, both individual intervals are continuous. We must check the continuity at $t=6$, however.
+				$$\lim_{t \to 6^-} = 48(6) + 6^2 - \frac{6^3}{12} = 288 + 36 - 18 = 306$$
 				$$\lim_{t \to 6^+} = g(6) = 306$$
-				$$\lim_{t \to 6^-} \neq \left( \lim_{t \to 6^+} = g(6) \right)$$ 
-				Therefore, $\boxed{f(t)\text{ is not continuous for } 0 \leq t \leq 12 }$ since it is not continuous at $t=6$.
+				$$\therefore \lim_{t \to 6^-} = \lim_{t \to 6^+} = g(6)$$ 
+				$\therefore \boxed{f(t)\text{ is continuous for } 0 \leq t \leq 12 }$ since it is continuous at $t=6$ and on $0 \leq t < 6$ and $6 < t \leq 12$.
 				
 				\part $$f^\prime(t) = 48 + 2t - \frac{t^2}{4} \text{ for } 0 \leq t \leq 6$$
 				$$f^\prime(2) = 48 + 4 - \frac{4}{4} = \boxed{51}$$
@@ -232,10 +232,10 @@ tocentrypagenumberbox=\mbox
 					 = \boxed{\frac{ (y^\prime - 2)(4y-x) - (4y^\prime - 1)(y-2x) } { (4y-x)^2 }}
 				\end{multline*}
 				Find $y^\prime$ at $(1,2)$:
-				$$y^\prime = \frac{2 - 2(1)}{4(2) - 1} = \frac{0}{7} = 0$$
+				$$y^\prime \ \bigg{|}_{(1,2)} = \frac{2 - 2(1)}{4(2) - 1} = \frac{0}{7} = 0$$
 				Plug in $y^\prime$ and $(1,2)$ to $y^{\prime\prime}$:
 				\begin{align*}
-					y^{\prime\prime} &= \frac{ (0 - 2)(4(2)-1) - (4(0) - 1)((2)-2(1)) } { (4(2)-1)^2 }
+					y^{\prime\prime} \ \bigg{|}_{(1,2)} &= \frac{ (0 - 2)(4(2)-1) - (4(0) - 1)((2)-2(1)) } { (4(2)-1)^2 }
 									 &= \frac{ (-2)(7) - (-1)(0) } { (7)^2 }
 									 &= \boxed{-\frac{ 14 } { 49 }}
 				\end{align*}

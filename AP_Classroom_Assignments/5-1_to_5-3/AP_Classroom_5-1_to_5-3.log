@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  3 NOV 2024 23:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  4 NOV 2024 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,7 +1036,7 @@ Underfull \vbox (badness 10000) detected at line 198
 
 
 [5]
-Overfull \hbox (18.50294pt too wide) detected at line 241
+Overfull \hbox (44.38742pt too wide) detected at line 241
 []
  []
 
