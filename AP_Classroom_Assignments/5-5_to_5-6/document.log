@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  16 NOV 2024 17:00
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  17 NOV 2024 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./AP_Classroom_5-1_to_5-3.tex
-(AP_Classroom_5-1_to_5-3.tex
+**./document.tex
+(document.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (C:\Users\Brayden\AppData\Local\Programs\MiKTeX\tex/latex/exam\exam.cls
@@ -939,8 +939,8 @@ File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \l__pdf_internal_box=\box70
 \g__pdf_backend_annotation_int=\count373
 \g__pdf_backend_link_int=\count374
-) (AP_Classroom_5-1_to_5-3.aux)
-\openout1 = `AP_Classroom_5-1_to_5-3.aux'.
+) (document.aux)
+\openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
 LaTeX Font Info:    ... okay on input line 77.
@@ -970,9 +970,9 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
 LaTeX Font Info:    ... okay on input line 77.
 Package hyperref Info: Link coloring ON on input line 77.
 
-(AP_Classroom_5-1_to_5-3.out) (AP_Classroom_5-1_to_5-3.out)
+(document.out) (document.out)
 \@outlinefile=\write4
-\openout4 = `AP_Classroom_5-1_to_5-3.out'.
+\openout4 = `document.out'.
 
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
@@ -1027,75 +1027,58 @@ Overfull \hbox (18.0pt too wide) in paragraph at lines 88--89
 [][] 
  []
 
-(AP_Classroom_5-1_to_5-3.exr
+(document.exr
 Package tocbasic Info: Using my definition of `\numberline' on input line 1.
 Package tocbasic Info: Using my definition of `\numberline' on input line 2.
 Package tocbasic Info: Using my definition of `\numberline' on input line 3.
 Package tocbasic Info: Using my definition of `\numberline' on input line 4.
-Package tocbasic Info: Using my definition of `\numberline' on input line 5.
-Package tocbasic Info: Using my definition of `\numberline' on input line 6.
 )
 \tf@exr=\write5
-\openout5 = `AP_Classroom_5-1_to_5-3.exr'.
+\openout5 = `document.exr'.
 
 
 
 [1
 
 ]
+File: Q1_1.png Graphic file (type bmp)
+<Q1_1.png>
+
 
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
 
  []
 
 
-
-[3]
 
 [4]
 
 [5]
-Missing character: There is no − in font cmr12!
-File: question15_001.png Graphic file (type bmp)
-<question15_001.png>
-File: question15_002.png Graphic file (type bmp)
-<question15_002.png>
-
 
 [6]
-Overfull \hbox (44.38742pt too wide) detected at line 269
-[]
- []
-
-
-Underfull \vbox (badness 5985) detected at line 272
- []
-
-
 
 [7]
-
-[8]
-This exam contains 6 questions with 10 parts, 0 subparts, and 0 subsubparts.
-(AP_Classroom_5-1_to_5-3.aux)
+This exam contains 4 questions with 9 parts, 0 subparts, and 0 subsubparts.
+(document.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
-Package rerunfilecheck Info: File `AP_Classroom_5-1_to_5-3.out' has not changed
-.
+Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33731 strings out of 409029
- 772441 string characters out of 5756334
- 1335600 words of memory out of 5000000
- 55934 multiletter control sequences out of 15000+600000
- 566390 words of font info for 78 fonts, out of 8000000 for 9000
+ 33694 strings out of 409029
+ 771085 string characters out of 5756334
+ 1339570 words of memory out of 5000000
+ 55894 multiletter control sequences out of 15000+600000
+ 566406 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 100i,19n,107p,771b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 100i,17n,107p,756b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AP_Classroom_5-1_to_5-3.pdf (8 pages).
+Output written on document.pdf (7 pages).

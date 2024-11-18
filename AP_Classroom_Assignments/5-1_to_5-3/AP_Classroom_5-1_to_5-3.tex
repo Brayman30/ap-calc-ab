@@ -124,9 +124,9 @@ tocentrypagenumberbox=\mbox
 				$$\text{AROC} = \frac{g(10)-g(8)}{10-8} = \boxed{\frac{428-376}{2} \text{ m\textsuperscript{3} / min} \approx f^\prime(9)}$$ (see above note about simplification)
 				
 				\part Since $g$ is differentiable and $f(t)$ is defined by a polynomial over $0 \leq t < 6$, both individual intervals are continuous. We must check the continuity at $t=6$, however.
-				$$\lim_{t \to 6^-} = 48(6) + 6^2 - \frac{6^3}{12} = 288 + 36 - 18 = 306$$
-				$$\lim_{t \to 6^+} = g(6) = 306$$
-				$$\therefore \lim_{t \to 6^-} = \lim_{t \to 6^+} = g(6)$$ 
+				$$\lim_{t \to 6^-} f(t) = 48(6) + 6^2 - \frac{6^3}{12} = 288 + 36 - 18 = 306$$
+				$$\lim_{t \to 6^+} f(t) = f(6) = g(6) = 306$$
+				$$\therefore \lim_{t \to 6^-} f(t) = \lim_{t \to 6^+} f(t) = f(6) = g(6)$$ 
 				$\therefore \boxed{f(t)\text{ is continuous for } 0 \leq t \leq 12 }$ since it is continuous at $t=6$ and on $0 \leq t < 6$ and $6 < t \leq 12$.
 				
 				\part $$f^\prime(t) = 48 + 2t - \frac{t^2}{4} \text{ for } 0 \leq t \leq 6$$
@@ -134,7 +134,16 @@ tocentrypagenumberbox=\mbox
 			\end{parts}
 		\end{solution}
 		
-		\setcounter{question}{6} \question Just a note: this question is here in error because it uses integrals, which we haven't learned yet.
+		\setcounter{question}{6} \question The rate at which raw sewage enters a treatment tank is given by $E(t)=850+715\cos \left( \frac{\pi t^2}{9} \right) $ gallons per hour for $0 \leq t \leq 4$	hours. Treated sewage is removed from the tank at the constant rate of $645$ gallons per hour. The treatment tank is empty at time $t = 0$.\\
+		For $0 \leq t \leq 4$ at what time $t$ is the amount of sewage in the treatment tank greatest? To the nearest gallon, what is the maximum amount of sewage in the tank? Justify your answers.
+		\begin{solution}
+			We only know enough calculus to solve the first part of this question. (We will learn integration, which have to be used to solve the second part of this question, later.) \\
+			When $E(t)=645$, there is a critical point at that value $t$, and there could be a maximum there.
+			$$E(t) = 645 \rightarrow 850 + 715 \cos \left( \frac{\pi t^2}{9} \right) = 645$$ 
+			In calculator, find intersection between $y=615$ and $y=E(t)$. \\
+			$$t = \left\lbrace 2.3184 , 3.5532 \right\rbrace$$ \\
+			There could be a maximum at either one of critical values, and we would have to find values of the actual amount of sewage in order to test which point (or one of the endpoints) is the maximum.
+		\end{solution}
 		
 		\setcounter{question}{9} \question Let f be the function given by the $f(x) = \frac{\ln x}{x}$ for all x > 0. The derivative of f is given by $f^\prime(x) = \frac{1-\ln x}{x^2}$. \\
 		Find the $x$-coordinate of the critical point of $f$. Determine whether this point is a relative minimum, a relative maximum, or neither for the function $f$. Justify your answer.
@@ -188,8 +197,7 @@ tocentrypagenumberbox=\mbox
 				\end{gather}
 				$f^{\prime\prime}(x) > 0 \  \boxed{\text{on } (-\frac{\sqrt{2}}{2},0) \text{ and } (+\frac{\sqrt{2}}{2},+\infty)}$, therefore, f is increasing \\
 				on these intervals
-				
-				\part \hfill
+				\part
 				Horizontal tangent lines have a slope of zero. 
 				Set $f^\prime(x)$ to zero and solve:
 				\begin{gather}
@@ -227,13 +235,13 @@ tocentrypagenumberbox=\mbox
 		\begin{solution}
 			\begin{parts}
 				\part 
-				\begin{gather*}
-					\frac{d}{dx} \left( x^2-xy+2y^2 \right) = \frac{d}{dx} ( 7 ) \\
-					2x - (y + x{y^\prime}) + 4y{y^\prime} = 0 \\
-					2x - y - x{y^\prime} + 4y{y^\prime} \\
-					2x - y = {y^\prime} ( x - 4y ) \\
-					{y^\prime} = \frac{2x - y}{x - 4y} = \frac{y - 2x}{4y - x}
-				\end{gather*}
+				\begin{align*}
+					\frac{d}{dx} \left( x^2-xy+2y^2 \right) &= \frac{d}{dx} ( 7 ) \\
+					2x - (y + x{y^\prime}) + 4y{y^\prime} &= 0 \\
+					2x - y - x{y^\prime} + 4y{y^\prime} &= 0 \\
+					2x - y &= {y^\prime} ( x - 4y ) \\
+					{y^\prime} &= \frac{2x - y}{x - 4y} = \frac{y - 2x}{4y - x}
+				\end{align*}
 				\part Vertical tangent lines have undefined slope, meaning the denominator of the derivative of the curve must equal zero. \\
 				$4y-x=0$ \ $\Rightarrow$ \  $x=4y$ \\
 				Plug into curve:
@@ -244,7 +252,7 @@ tocentrypagenumberbox=\mbox
 					y^2 &= \frac{1}{2} \\
 					y &= \pm \sqrt{\frac{1}{2}}
 				\end{align*}
-				
+				\pagebreak
 				\part 
 				\begin{multline*}
 					\frac{d^2y}{dx^2} = \frac{d}{dx} \left( \frac{dy}{dx} \right)  = \frac{d}{dx} \left( \frac{y - 2x}{4y - x} \right) \\
