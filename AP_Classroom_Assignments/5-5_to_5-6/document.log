@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  17 NOV 2024 22:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  17 NOV 2024 23:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1032,6 +1032,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 1.
 Package tocbasic Info: Using my definition of `\numberline' on input line 2.
 Package tocbasic Info: Using my definition of `\numberline' on input line 3.
 Package tocbasic Info: Using my definition of `\numberline' on input line 4.
+Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 )
 \tf@exr=\write5
 \openout5 = `document.exr'.
@@ -1061,9 +1062,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--194
 [5]
 
 [6]
+File: chrome_znbfVtBkrt.png Graphic file (type bmp)
+<chrome_znbfVtBkrt.png>
+
 
 [7]
-This exam contains 4 questions with 9 parts, 0 subparts, and 0 subsubparts.
+
+[8]
+This exam contains 5 questions with 12 parts, 0 subparts, and 0 subsubparts.
 (document.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
@@ -1073,12 +1079,12 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33694 strings out of 409029
- 771085 string characters out of 5756334
+ 33732 strings out of 409029
+ 771878 string characters out of 5756334
  1339570 words of memory out of 5000000
- 55894 multiletter control sequences out of 15000+600000
+ 55932 multiletter control sequences out of 15000+600000
  566406 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  100i,17n,107p,756b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on document.pdf (7 pages).
+Output written on document.pdf (8 pages).
