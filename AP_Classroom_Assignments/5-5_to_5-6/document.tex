@@ -17,6 +17,7 @@
 \usepackage{hyperref}
 \usepackage{signchart}
 \usepackage{mathtools}
+\usepackage{float}
 
 \usepackage{xcolor}
 \hypersetup{
@@ -239,16 +240,15 @@ tocentrypagenumberbox=\mbox
 					\lim_{t\to2} \left( \nicefrac{d}{dt} \left( 2 - t \right) \right) &= \lim_{t\to2} \left( -1 \right) = -1 \\
 					\therefore \lim_{t\to2} (x(t)) &= \frac{\pi}{-1} = \boxed{-\pi}
 				\end{align}
-				
 				\part \begin{align}
 				\frac{d}{dt} \left( x(t) \right) &= v_Q(t) \\
 				\frac{d}{dt} \left( \frac{\sin(\pi t)}{2-t} \right) &= \frac{ (\nicefrac{d}{dt}(\sin(\pi t))) (2-t) - (\nicefrac{d}{dt} (2-t))(\sin (\pi t)) }{(2-t)^2} \\
 				&= \frac{ \pi \cos(\pi t) (2-t) - (-1)(\sin (\pi t)) }{(2-t)^2} \\
-				&= \frac{2\pi\cos(\pi t)-\pi t \cos (\pi t) + \sin(\pi t)}{(2-t)^2}
+				&= \boxed{\frac{2\pi\cos(\pi t)-\pi t \cos (\pi t) + \sin(\pi t)}{(2-t)^2}}
 				\end{align}
-				
+				\pagebreak
 				\part
-					\includegraphics[width=0.7\linewidth]{Q3c_1}
+					\includegraphics[width=0.7\linewidth]{Q3c_1} \\
 					\begin{gather}
 						c^2 = a^2+b^2 \\
 						c = \sqrt{a^2+b^2} \\ \\
@@ -313,11 +313,15 @@ tocentrypagenumberbox=\mbox
 		
 		\begin{solution}
 			\begin{parts}
-				\part $$A^\prime(t) \approx \frac{A(30)-A(15)}{30-15} = \frac{16-25}{30-15} = - \frac{9}{15} = - \frac{3}{5}$$
+				\part $$A^\prime(t) \approx \frac{A(30)-A(15)}{30-15} = \frac{16-25}{30-15} = - \frac{9}{15} = \boxed{- \frac{3}{5}}$$
 				\part On $0 \leq t \leq 30$, the AROC can be found as follows:
 				$$\frac{A(30)-A(0)}{30-0}=\frac{16-10}{30}=\frac{6}{30}=\frac{1}{5}$$
-				Since $A$ is twice-differentiable $\implies A$ is differentiable $\implies A$ is continuous.  \\
-				Therefore, by MVT, there is a value $c$ in $(0,30)$ where $A^\prime(c) = \frac{A(30)-A(0)}{30-0}=\frac{1}{5}$.
+				\noindent\fbox{%
+					\parbox{\linewidth}{%
+						Since $A$ is twice-differentiable $\implies A$ is differentiable $\implies A$ is continuous.\\
+						Therefore, by MVT, there is a value $c$ in $(0,30)$ where $A^\prime(c) = \frac{A(30)-A(0)}{30-0}=\frac{1}{5}$.
+					}%
+				}
 				\part 
 				\begin{align}
 					G^\prime(t) &= 5 - \left( \frac{3}{2} \right) \left( \frac{2}{3} \right) (t+9)^{\left( \nicefrac{3}{2} - 1 \right)} (1) \\
