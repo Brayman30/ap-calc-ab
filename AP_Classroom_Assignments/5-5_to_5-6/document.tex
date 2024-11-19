@@ -318,8 +318,39 @@ tocentrypagenumberbox=\mbox
 				$$\frac{A(30)-A(0)}{30-0}=\frac{16-10}{30}=\frac{6}{30}=\frac{1}{5}$$
 				Since $A$ is twice-differentiable $\implies A$ is differentiable $\implies A$ is continuous.  \\
 				Therefore, by MVT, there is a value $c$ in $(0,30)$ where $A^\prime(c) = \frac{A(30)-A(0)}{30-0}=\frac{1}{5}$.
-				\part Coming Soon™
-				\part Coming Soon™
+				\part 
+				\begin{align}
+					G^\prime(t) &= 5 - \left( \frac{3}{2} \right) \left( \frac{2}{3} \right) (t+9)^{\left( \nicefrac{3}{2} - 1 \right)} (1) \\
+								&= 5 - (t+9)^{\nicefrac{1}{2}} \\
+								&= 5 - \sqrt{t+9}
+				\end{align}
+				Set $G^\prime(t)=0$:
+				\begin{align}
+					5 - \sqrt{t+9} &= 0 \\
+					5 &= \sqrt{t+9} \\
+					25 &= t+9 \\
+					16 &= t \\
+				\end{align}
+				Sign Chart:
+				$$\sgchart{16}{G'(t): +-}$$
+				
+				\noindent\fbox{%
+					\parbox{\linewidth}{%
+						$t=16$ must be the absolute maximum since it is the only relative max.\\
+						($G(t)$ decreases continually on $16 \leq t \leq 35$)
+					}%
+				}
+				\part $G^{\prime\prime}(t) = -(t+9)^{\nicefrac{1}{2}}(1) = \frac{-1}{\sqrt{t+9}}$ \\
+				Set $G^{\prime\prime}(t)$ = 0:
+				$$\frac{-1}{\sqrt{t+9}} = 0 \implies \text{ No Solution}$$
+				$G^{\prime\prime}(t) < 0$ on $0 \leq t \leq 35$. \\
+				$\implies G^{\prime}(t)$ is concave down on $0 \leq t \leq 35$. \\
+				\noindent\fbox{%
+					\parbox{\linewidth}{%
+						Therefore, $G(7)$ will provide an overestimate of $G(8)$ if using a locally linear model.
+						($G(t)$ is increasing at a decreasing rate, so if we assume a constant rate, it will provide an overestimate.)
+					}%
+				}
 			\end{parts}
 		\end{solution}
 	\end{questions}

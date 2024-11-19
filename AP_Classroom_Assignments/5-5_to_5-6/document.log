@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  18 NOV 2024 20:36
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  18 NOV 2024 21:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1087,6 +1087,16 @@ Underfull \vbox (badness 10000) detected at line 274
 [8]
 File: chrome_znbfVtBkrt.png Graphic file (type bmp)
 <chrome_znbfVtBkrt.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 337--343
+[] 
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 345--354
+[] 
+ []
+
 
 
 [9]
