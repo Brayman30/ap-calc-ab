@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  18 NOV 2024 22:04
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.24)  18 NOV 2024 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1100,6 +1100,8 @@ Underfull \vbox (badness 10000) detected at line 274
 File: chrome_znbfVtBkrt.png Graphic file (type bmp)
 <chrome_znbfVtBkrt.png>
 
+
+[9]
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 318--325
 [] 
  []
@@ -1115,8 +1117,10 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 349--358
  []
 
 
+Overfull \vbox (8.22272pt too high) detected at line 359
+ []
 
-[9]
+
 
 [10]
 This exam contains 5 questions with 12 parts, 0 subparts, and 0 subsubparts.
@@ -1135,6 +1139,6 @@ Here is how much of TeX's memory you used:
  56019 multiletter control sequences out of 15000+600000
  566406 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 100i,17n,107p,756b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 100i,17n,107p,756b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on document.pdf (10 pages).
